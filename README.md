@@ -7,10 +7,11 @@
 # Paulo Jefferson 
 ## Hello, Devs!!! 
 
-- 🔭 I'm currently unemployed 
-- 💬 I worked in logistics and as I like the programming area, I'm moving 😄 
-- 🌱 I'm currently learning HTML and CSS, focused on developing the Front-end (
-- ⚡ If you have suggestions, I'm at your disposal 😄 
+- 🔭 I'm currently unemployed.
+- 💬 I worked in logistics and as I like the programming area, I'm moving. 😄
+- 🌱 I'm currently learning HTML and CSS, focused on developing the Front-end.
+- 📖 I'm studying systems analysis and development at Estácio.
+- ⚡ If you have suggestions, I'm at your disposal. 😄 
 
 ## I am learning 
 
