@@ -12,7 +12,6 @@
 - 🌱 I'm currently learning HTML and CSS, focused on developing the Front-end (
 - ⚡ If you have suggestions, I'm at your disposal 😄 
 
-## Tools and technologies 
 ## I am learning 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
