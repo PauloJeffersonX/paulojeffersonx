@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+👋 Hello! Welcome to my Github profile. 
+  My name is Paulo Jefferson and my nickname is "PauloJeffersonX"! 
+  
 <!--
 **👋 Hello! Welcome to my Github profile. 
   My name is Paulo Jefferson and my nickname is "PauloJeffersonX"! 
