@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/PauloJeffersonX/PauloJeffersonX/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PauloJeffersonX/paulojeffersonx/blob/output/github-contribution-grid-snake.svg)
 
 
 ### Hi there 👋
