@@ -4,9 +4,8 @@
 ### Hi there 👋
 
 
-**
 # Paulo Jefferson 
-## Hello, Devs!!"! 
+## Hello, Devs!!! 
 
 - 🔭 I'm currently unemployed 
 - 💬 I worked in logistics and as I like the programming area, I'm moving 😄 
