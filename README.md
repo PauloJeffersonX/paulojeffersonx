@@ -1,5 +1,5 @@
 
-### Olá eu sou o Paulo Jefferson
+### Olá eu sou o Paulo Jefferson 🖐️
 
 <div align="center">
   <a href="https://github.com/PauloJeffersonX">
