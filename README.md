@@ -32,5 +32,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloJeffersonX/paulojeffersonx/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PauloJeffersonX/paulojeffersonx/output/github-contribution-grid-snake.svg">
 </picture>
- 
+
+ <!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/PauloJeffersonX/paulojeffersonx/issues/1#issue-2527190044" alt="Imagem">
+</p>
 
