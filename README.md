@@ -12,7 +12,10 @@ Atualmente, venho direcionando meus estudos para **Infraestrutura e Administraç
 
 ## 🛠️ Tecnologias e interesses
 
-`Windows` • `Linux` • `Redes` • `PowerShell` • `Bash` • `Python` • `Docker` • `Git` • `GitHub` • `Ollama`
+**Sistemas:** Windows • Linux • Fedora • Ubuntu Server  
+**Infraestrutura:** Redes • TCP/IP • DNS • SSH  
+**Automação:** PowerShell • Bash • Python  
+**Ferramentas:** Docker • Git • GitHub • Ollama
 
 ---
 
