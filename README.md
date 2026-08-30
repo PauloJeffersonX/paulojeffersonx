@@ -7,7 +7,6 @@ Atuo com suporte técnico, troubleshooting e infraestrutura, com experiência em
 Gosto de tecnologia e de aprender na prática. Fora da rotina profissional, mantenho meus próprios laboratórios para estudar infraestrutura, Linux, automação, containers e IA local.
 
 Atualmente, venho aprofundando meus conhecimentos em Infraestrutura e Administração de Sistemas, aproveitando a experiência que construí em suporte técnico.
----
 
 ## 🛠️ Tecnologias e interesses
 
