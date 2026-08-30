@@ -21,7 +21,7 @@ Atualmente, venho aprofundando meus conhecimentos em Infraestrutura e Administra
 
 No meu portfólio você encontra mais sobre minha experiência profissional, projetos e laboratórios técnicos.
 
-👉 **[paulojeffersonx.github.io/portfolio](https://paulojeffersonx.github.io/portfolio/)**
+👉 **https://paulojeffersonx.vercel.app**
 
 ---
 
